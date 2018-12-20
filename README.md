@@ -1,4 +1,4 @@
-tf_aws_elasticsearch
+terraform-aws-elasticsearch-module
 ===========
 
 Terraform module for deploying and managing [Amazon Elasticsearch Service](https://aws.amazon.com/documentation/elasticsearch-service/).
